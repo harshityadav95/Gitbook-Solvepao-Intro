@@ -20,3 +20,8 @@ description: What we are trying to solve one use case at a time
 Why Science needs more research software enginners
 {% endembed %}
 
+{% embed url="http://rachelbythebay.com/w/2022/06/15/places/" %}
+Adding Other Dimentsions to Existing Data
+{% endembed %}
+
+{% embed url="https://news.ycombinator.com/item?id=29965282" %}
