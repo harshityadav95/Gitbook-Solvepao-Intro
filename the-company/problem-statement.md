@@ -25,3 +25,5 @@ Adding Other Dimentsions to Existing Data
 {% endembed %}
 
 {% embed url="https://news.ycombinator.com/item?id=29965282" %}
+Mapping Problems and Solution
+{% endembed %}
