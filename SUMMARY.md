@@ -10,5 +10,5 @@
 
 ## The Formal Stuff
 
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [Join our Project](the-formal-stuff/join-our-project.md)
+* [Project Expenses](the-formal-stuff/project-expenses.md)
