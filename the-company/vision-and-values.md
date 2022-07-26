@@ -31,3 +31,11 @@ We do not take advantage of our users' attention and adopt mindful working pract
 ### Research First
 
 We challenge our own and others' assumptions through qualitative and quantitative research. Not sure about an idea? Test it.
+
+
+
+> Q.Write a tagline for the world innovative company that solves the problems of the world
+>
+> Solving the world's problems, one innovation at a time. - GPT3
+>
+>
